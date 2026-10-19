@@ -1,4 +1,4 @@
-export {};
+export { };
 // Vi skapar huvudklassen Person som fungerar som en grundmall (basklass).
 class Person {
 
